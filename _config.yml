@@ -1,0 +1,5 @@
+include:
+  - "*.wasm"
+  - "*.pck"
+  - "*.js"
+  - "*.data"
